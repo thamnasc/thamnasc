@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thamnasc
-- 👀 I’m interested in learning German Language, amigurumi crochet and kittens
+- 👀 I’m interested in German Language, amigurumi crochet and kittens
 - 🌱 I’m currently learning Python
 - 💞️ I’m collaborating on GBN-DBP
 
