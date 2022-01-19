@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thamnasc
 - 👩🏼‍💻 I study Biomedical Informatics @UFPR
-- 👀 I’m interested in German Language, amigurumi crochet, The Lord of the Rings and kittens
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in german language, amigurumi crochet and machine learning
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m collaborating on GBN-DBP
 
 <!---
