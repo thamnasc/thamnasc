@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thamnasc
 - 👩🏼‍💻 I study Biomedical Informatics @UFPR
-- 👀 I’m interested in german language, amigurumi crochet and machine learning
+- 👀 I’m interested in german language and machine learning
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m collaborating on GBN-DBP
+- 💞️ I’m collaborating on GBN-DBP (German-Brazilian Newspapers - Deutschsprachige Brasilianische Presse)
 
 <!---
 thamnasc/thamnasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
