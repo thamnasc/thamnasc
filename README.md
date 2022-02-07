@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thamnasc
+- 👋 Hi, I’m called Thalita!
 - 👩🏼‍💻 I study Biomedical Informatics @UFPR
 - 👀 I’m interested in german language and machine learning
 - 🌱 I’m currently learning Python and Java
