@@ -1,10 +1,10 @@
-- 👋 Hi, I’m called Thalita!
+# Nice to meet you, I'm Thalita!
+
 - 👩🏼‍💻 I study Biomedical Informatics @UFPR
 - 👀 I’m interested in german language and machine learning
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m collaborating on GBN-DBP (German-Brazilian Newspapers - Deutschsprachige Brasilianische Presse)
 
-##
 
 <div align="center">
   <a href="https://github.com/thamnasc">
