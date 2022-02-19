@@ -3,7 +3,7 @@
 - 👩🏼‍💻 I study Biomedical Informatics @UFPR
 - 👀 I’m interested in german language and machine learning
 - 🌱 I’m currently learning Python and Java
-- 💞️ I’m collaborating on GBN-DBP (German-Brazilian Newspapers - Deutschsprachige Brasilianische Presse)
+- 💞️ I’m collaborating on German-Brazilian Newspapers - Deutschsprachige Brasilianische Presse [(GBN-DBP)](https://github.com/GBN-DBP)
 
 ##
 
