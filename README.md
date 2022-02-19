@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m collaborating on GBN-DBP (German-Brazilian Newspapers - Deutschsprachige Brasilianische Presse)
 
+##
 
 <div align="center">
   <a href="https://github.com/thamnasc">
