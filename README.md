@@ -9,7 +9,9 @@
 
 <div align="center">
   <a href="https://github.com/thamnasc">
+  <!---
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamnasc&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=stars,contribs,issues"/>
+  --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamnasc&layout=compact&langs_count=7&hide=makefile&theme=material-palenight"/>
 </div>
 
