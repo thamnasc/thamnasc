@@ -14,7 +14,7 @@
 --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamnasc&layout=compact&langs_count=7&hide=makefile&theme=material-palenight"/>
   <img align="right" alt="Thali-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/465622190486716433/944405866550034462/gifgithub.gif">
+  src="https://cdn.discordapp.com/attachments/465622190486716433/944405866550034462/gifgithub.gif?width=676&height=676">
 </div>
 
  <div style="display: inline_block"><br>
@@ -35,7 +35,7 @@
   
   ![Snake animation](https://github.com/thamnasc/thamnasc/blob/output/github-contribution-grid-snake.svg)
 </div> 
-  
+
 <!---
 thamnasc/thamnasc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
