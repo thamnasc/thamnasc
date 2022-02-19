@@ -13,7 +13,7 @@
 &hide=stars,commits,prs,issues,contribs
 --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamnasc&layout=compact&langs_count=7&hide=makefile&theme=material-palenight"/>
-  <img align="right" alt="Thali-pic" height="170" style="border-radius:100px;" 
+  <img align="right" alt="Thali-pic" height="150" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/465622190486716433/944405866550034462/gifgithub.gif">
 </div>
 
