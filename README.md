@@ -12,7 +12,7 @@
   <!---
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamnasc&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=stars,contribs,issues"/>
   --->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamnasc&layout=compact&langs_count=8&hide=makefile,tex&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamnasc&layout=compact&langs_count=8&hide=makefile,tex,html&theme=material-palenight"/>
 </div>
 
  <div style="display: inline_block"><br>
