@@ -22,7 +22,6 @@
   <img align="center" alt="Thali-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Thali-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="right" alt="Thali-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/465622190486716433/944405866550034462/gifgithub.gif?width=676&height=676">
 </div>
   
 ##
