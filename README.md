@@ -1,8 +1,8 @@
 # Nice to meet you, I'm Thalita!
 
-- 👩🏼‍💻 I study Biomedical Informatics @UFPR
+- :woman_technologist: I study Biomedical Informatics at UFPR
 - 👀 I’m interested in german language and machine learning
-- 💞️ I’m collaborating on German-Brazilian Newspapers - Deutschsprachige Brasilianische Presse [(GBN-DBP)](https://github.com/GBN-DBP)
+- :dizzy: I’m collaborating on German-Brazilian Newspapers from [(VRI-UFPR)](https://github.com/VRI-UFPR)
 
 ##
 
@@ -23,7 +23,9 @@
   <img align="center" alt="Thali-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Thali-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Thali-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Thali-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>   
+  <img align="center" alt="Thali-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="Thali-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+  <img  align="center" alt="Thali-PostgreSQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />    
 </div>
   
 ##
