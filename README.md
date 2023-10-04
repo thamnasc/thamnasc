@@ -2,7 +2,7 @@
 
 - :woman_technologist: I study Biomedical Informatics at UFPR
 - 👀 I’m interested in german language and machine learning
-- :dizzy: I’m collaborating on German-Brazilian Newspapers from [(VRI-UFPR)](https://github.com/VRI-UFPR)
+- :dizzy: I'm working on German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab
 
 ##
 
@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/thalita-maria-do-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://gitlab.c3sl.ufpr.br/tmn21" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab" target="_blank"></a>
   
-  ![Snake animation](https://github.com/thamnasc/thamnasc/blob/output/github-contribution-grid-snake.svg)
+<!--- ![Snake animation](https://github.com/thamnasc/thamnasc/blob/output/github-contribution-grid-snake.svg)--->
 </div> 
 
 <!---
