@@ -1,10 +1,12 @@
-# Nice to meet you, I'm Thalita!
+<div align="center">
+<h1> Nice to meet you, I'm Thalita! </h1>
 
-- :woman_technologist: I study Biomedical Informatics at UFPR
-- :electron: I’m graduate as an Electronics Technician at UTFPR
-- 📰 I'm working on German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab
+ :woman_technologist: I study Biomedical Informatics at UFPR <br/>
+ :electron: I’m graduate as an Electronics Technician at UTFPR <br/>
+ 📰 I'm working on German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab <br/>
 
 ##
+</div>
 
 <div align="center">
   <a href="https://github.com/thamnasc">
