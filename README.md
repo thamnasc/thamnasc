@@ -2,7 +2,7 @@
 <h1> Nice to meet you, I'm Thalita! </h1>
 
  :woman_technologist: I study Biomedical Informatics at UFPR <br/>
- :electron: I graduated in Electronics Technician at UTFPR <br/>
+ :electron: I have a certificate in Electronics at UTFPR <br/>
  📰 I'm working on German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab <br/>
 
 ##
