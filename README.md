@@ -3,7 +3,7 @@
 
  :woman_technologist: Biomedical Informatics Student at UFPR <br/>
  :electron: Electronics Technician Alumni at UTFPR <br/>
-:maple_leaf: Former Mitacs Intern at University of Calgary
+:maple_leaf: Former Mitacs Intern at University of Calgary <br/>
 :newspaper: Undergrad Researcher at German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab <br/>
 
 ##
