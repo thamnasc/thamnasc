@@ -1,9 +1,10 @@
 <div align="center">
 <h1> Nice to meet you, I'm Thalita! </h1>
 
- :woman_technologist: I study Biomedical Informatics at UFPR <br/>
- :electron: I have a certificate in Electronics at UTFPR <br/>
- 📰 I'm working on German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab <br/>
+ :woman_technologist: Biomedical Informatics Student at UFPR <br/>
+ :electron: Electronics Technician Alumni at UTFPR <br/>
+:maple_leaf: Former Mitacs Intern at University of Calgary
+:newspaper: Undergrad Researcher at German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab <br/>
 
 ##
 </div>
