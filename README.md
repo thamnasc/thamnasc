@@ -1,20 +1,19 @@
 <div align="center">
-<h1> Nice to meet you, I'm Thalita! </h1>
+<h1> Hi there, I'm Thalita! </h1>
 
  :woman_technologist: Biomedical Informatics Student at UFPR <br/>
  :electron: Electronics Technician Alumni at UTFPR <br/>
 :maple_leaf: Mitacs GRI '24 Intern at University of Calgary <br/>
-:newspaper: Undergrad Researcher at German-Brazilian Newspapers in the [VRI](https://github.com/VRI-UFPR) lab <br/>
 
 ##
 </div>
 
+<!---
 <div align="center">
   <a href="https://github.com/thamnasc">
-  <!---
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamnasc&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=stars,contribs,issues"/>
-  --->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamnasc&layout=compact&langs_count=8&hide=makefile,tex,html&theme=material-palenight"/>
+--->
 </div>
 
  <div style="display: inline_block" align="center"><br>
@@ -34,10 +33,9 @@
   
 <div align="center"> 
   <a href="https://www.linkedin.com/in/thalita-maria-do-nascimento" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://gitlab.c3sl.ufpr.br/tmn21" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab" target="_blank"></a>
   <br/>
   
-<!--- ![Snake animation](https://github.com/thamnasc/thamnasc/blob/output/github-contribution-grid-snake.svg)--->
+![Snake animation](https://github.com/thamnasc/thamnasc/blob/output/github-contribution-grid-snake.svg)
 </div> 
 
 <!---
